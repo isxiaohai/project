@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="HUAWEI ARM (fe0e0465-7831-4748-8b1f-a28beda74297)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz (6e97face-8601-479c-9f8c-ed18089ae396)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="UBUNTU ARM (8549deb8-0c68-4de5-8aab-08a6ac37f653)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cloud.tencent.com (22f490fa-0993-45c2-9a5e-9dbd36f60ee3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu 20.04 (5ca69007-52a0-4ed1-967e-57a64853a338)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu_host (cda187e9-b8a3-4de5-a457-637cb6071a77)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/untitled" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="viking-st (9393d9be-7e77-4661-bcad-22bac25fb853)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="viking-st4.8 (cd221265-aaa3-4237-9f76-5d233b355712)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="显卡ubuntu20.04 (851e6a71-5efe-4232-aa9e-f31c190dbcfa)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
