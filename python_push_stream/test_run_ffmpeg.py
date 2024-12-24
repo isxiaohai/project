@@ -40,7 +40,7 @@ def run_ffmpeg_cmd(cmd, logger):
             else:
                 # 读取输出
                 stdout, stderr = process.communicate()
-
+                print("1111111111111111111111111111\n")
     except Exception as e:
         strtraceback = traceback.format_exc()
         info = f"{str(e)}: {strtraceback}"
